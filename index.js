@@ -20,4 +20,4 @@ while (result.length < 5) {
   result.push(luckNumber);
 }
 
-console.log(`Luke nubers`, result.sort((n1, n2) => n1 - n2))
+console.log(`Luke numbers`, result.sort((n1, n2) => n1 - n2))
